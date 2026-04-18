@@ -79,7 +79,7 @@ Seasoned DevOps professional with 10+ years of experience in cloud infrastructur
 
 | 📜 Certificate       | 🏢 Issuer | 🔗 View                                                         |
 | -------------------- | --------- | --------------------------------------------------------------- |
-| MLOps Specialization | Coursera  | [View Certificate](certificates/mlops/mlops-specialization.pdf) |
+| AI/ML Specialization | Udemy  | [View Certificate](certificates/mlops/mlops-specialization.pdf) |
 
 ---
 
@@ -91,7 +91,7 @@ Seasoned DevOps professional with 10+ years of experience in cloud infrastructur
 
 | 📜 Certificate      | 🏢 Issuer | 🔗 View                                                       |
 | ------------------- | --------- | ------------------------------------------------------------- |
-| Docker & Kubernetes | Udemy     | [View Certificate](certificates/devops/docker-kubernetes.pdf) |
+| Terraform | Udemy     | [View Certificate](certificates/devops/docker-kubernetes.pdf) |
 
 ---
 
@@ -111,6 +111,8 @@ Computer Science
 ✔️ Hands-on with real-world MLOps pipelines
 ✔️ Cloud-native deployment experience
 ✔️ Strong DevOps + ML integration
+✔️ SRE & Observability Experience
+✔️ Scaled and Developed Solutions across multiple environments
 
 ---
 
