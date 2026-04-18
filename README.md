@@ -1,4 +1,4 @@
-# 🎓 Certification Portfolio
+# Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20DevOps%20%7C%20Cloud-blue?style=for-the-badge" />
@@ -13,9 +13,31 @@
 
 💡 MLOps & DevOps Engineer passionate about building scalable ML systems and cloud infrastructure.
 
-📌 This repository showcases my **certification journey** with verifiable proof.
+Seasoned DevOps professional with 10+ years of experience in cloud infrastructure automation, CI/CD pipelines, and cross-functional collaboration. Currently advancing into MLOps, focusing on integrating ML workflows with best practices on Amazon Web Services to deliver scalable and production-grade AI solutions.
 
 ---
+
+## 🎯 Skills
+
+| Cloud         | Version Controlling | IaC                                                          |
+| ----------------------- | --------- | ---------------------------------------------------------------- |
+| AWS & Azure  | Bitbucket, Github, Gitlab, AzureRepos, AWSDevOps       | Terraform, ARM, CloudFormation, AWS CDK, SAM |
+
+| Web Servers          | Configuration Management | CI/CD                                             |
+| ----------------------- | --------- | ---------------------------------------------------------------- |
+| Apache, Nginx  | Ansible     | Bamboo, Jenkins, GitLab, AzureDevOps, AWSDevOps, Github Actions |
+
+| Containerization         | OS | Scripting                                         |
+| ----------------------- | --------- | ---------------------------------------------------------------- |
+| Docker, Kubernetes, ECS, EKS, AKS | Redhat (Linux)    | Shell, Boto3, Python, CDK |
+
+| Monitoring & Logging         | Extras |
+| ----------------------- | --------- |
+| Kibana, Elasticsearch, Splunk, Grafana, Prometheus, Coralogix | Atlassian, Kafka, SageMaker, Claude, Cursor, TerraGrunt |
+
+
+---
+
 
 ## ☁️ Cloud Certifications
 
@@ -73,23 +95,14 @@
 
 ---
 
-## 📊 Certification Progress
+## 📊 Education
 
 ```text
-AWS      ██████████░░ 80%
-MLOps    ████████░░░░ 60%
-DevOps   ██████░░░░░░ 40%
+Institute of Information Technology & Management, Gwalior, India
+Bachelor of Engineering
+72.30%
+Computer Science
 ```
-
----
-
-## 🧠 Skills Gained
-
-* ⚙️ CI/CD Pipelines (GitHub Actions, CodePipeline)
-* ☁️ AWS (S3, SageMaker, Lambda, ECR, ECS)
-* 🤖 MLOps (Model Deployment, Monitoring)
-* 🐳 Docker & Kubernetes
-* 📊 Data Pipelines & Automation
 
 ---
 
@@ -104,16 +117,12 @@ DevOps   ██████░░░░░░ 40%
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/shubham-dixit-687775a0/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/shubhdev79">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
-
-## ⭐ If you like this repo
-
-Give it a ⭐ and feel free to explore my journey!
