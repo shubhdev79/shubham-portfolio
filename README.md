@@ -90,8 +90,10 @@ Seasoned DevOps professional with 10+ years of experience in cloud infrastructur
   <img src="https://img.shields.io/badge/MLOps-Specialization-blue" />
 </p>
 
+
 | 📜 Certificate       | 🏢 Issuer | 🔗 View                                                         |
 | -------------------- | --------- | --------------------------------------------------------------- |
+| MLOPs SageMaker      | SageMaker  | [View Image](MLOPs_SageMaker.png)                           |
 | AI/ML Specialization | Udemy  | [View Certificate](certificates/mlops/mlops-specialization.pdf) |
 
 ---
