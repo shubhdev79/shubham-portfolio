@@ -51,6 +51,19 @@ Seasoned DevOps professional with 10+ years of experience in cloud infrastructur
 
 ---
 
+## ☁️ OpenAI Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20-purple?logo=openAi" />
+</p>
+
+| 📜 Certificate          | 🏢 Issuer | 🔗 View                                                          |
+| ----------------------- | --------- | ---------------------------------------------------------------- |
+| Codex_Deployment_Practitioner |  OpenAI | [View Certificate](certificates/anthropic/Codex_Deployment_Practitioner.pdf) |
+| AI_Technical_Practitioner |  OpenAI | [View Certificate](certificates/anthropic/AI_Technical_Practitioner.pdf) |
+
+---
+
 ## ☁️ Anthropic Certifications
 
 <p align="center">
